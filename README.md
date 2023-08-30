@@ -17,7 +17,7 @@ Predicting the stability of crystals stands at the heart of materials science. D
 
 1. Clone the repository:
    ```bash
-   git clone [repository-link]
+   git clone https://github.com/shadzzz90/Deep-Neural-Network-for-Predcition-of-Crystal-Stability
    ```
 
 2. Navigate to the cloned directory and install the required libraries:
@@ -42,7 +42,7 @@ Contributions, suggestions, and bug reports are welcome! Please fork the reposit
 
 ## License
 
-[Your choice of license, for example, MIT, GPL, etc.]
+MIT
 
 ## Acknowledgment
 
