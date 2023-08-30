@@ -36,10 +36,6 @@ Predicting the stability of crystals stands at the heart of materials science. D
 
 - Follow the steps within the notebook. Each cell is documented to guide you through the implementation process and to help you understand the methodology.
 
-## Contribution
-
-Contributions, suggestions, and bug reports are welcome! Please fork the repository and create a pull request or open an issue for discussion.
-
 ## License
 
 MIT
