@@ -3,6 +3,10 @@
 
 This repository contains an unofficial Jupyter Notebook implementation of the research presented in "Deep neural networks for accurate predictions of crystal stability".
 
+### Original paper reference
+
+Ye, W., Chen, C., Wang, Z., Chu, I. H., & Ong, S. P. (2018). Deep neural networks for accurate predictions of crystal stability. Nature communications, 9(1), 3800.
+
 ## Abstract
 
 Predicting the stability of crystals stands at the heart of materials science. Despite the capabilities of approaches like density functional theory (DFT) calculations, they remain resource-intensive and face challenges in scaling with system size. In this notebook, we replicate the promising results achieved using deep neural networks that primarily utilize two descriptors: the Pauling electronegativity and ionic radii. The DFT formation energies of C3A2D3O12 garnets and ABO3 perovskites are predicted with astonishing accuracy. These models hint at a significant stride in machine learning, by showcasing a glimpse into efficient exploration across expansive chemical terrains, possibly unlocking the discovery of groundbreaking materials.
