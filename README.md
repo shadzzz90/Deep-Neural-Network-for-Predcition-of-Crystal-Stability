@@ -5,7 +5,7 @@ This repository contains an unofficial Jupyter Notebook implementation of the re
 
 ## Abstract
 
-Predicting the stability of crystals stands at the heart of materials science. Despite the capabilities of approaches like density functional theory (DFT) calculations, they remain resource-intensive and face challenges in scaling with system size. In this notebook, we replicate the promising results achieved using deep neural networks that primarily utilize two descriptors: the Pauling electronegativity and ionic radii. The DFT formation energies of C3A2D3O12 garnets and ABO3 perovskites are predicted with astonishing accuracy. These models hint at a significant stride in machine learning, extending from fixed stoichiometry crystals to an expansive universe of mixed-species crystals. The models showcased here offer a glimpse into efficient exploration across expansive chemical terrains, possibly unlocking the discovery of groundbreaking materials.
+Predicting the stability of crystals stands at the heart of materials science. Despite the capabilities of approaches like density functional theory (DFT) calculations, they remain resource-intensive and face challenges in scaling with system size. In this notebook, we replicate the promising results achieved using deep neural networks that primarily utilize two descriptors: the Pauling electronegativity and ionic radii. The DFT formation energies of C3A2D3O12 garnets and ABO3 perovskites are predicted with astonishing accuracy. These models hint at a significant stride in machine learning, by showcasing a glimpse into efficient exploration across expansive chemical terrains, possibly unlocking the discovery of groundbreaking materials.
 
 ## Prerequisites
 
